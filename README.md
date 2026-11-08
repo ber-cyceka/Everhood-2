@@ -189,3 +189,6 @@ This repository serves as the official landing page for Everhood 2. The software
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Everhood 2 today!**
+
+---
+**Last updated:** 2026-11-08 00:11:01 UTC
