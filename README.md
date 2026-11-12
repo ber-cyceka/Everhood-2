@@ -191,4 +191,4 @@ This repository serves as the official landing page for Everhood 2. The software
 **Get the most recent version of Everhood 2 today!**
 
 ---
-**Last updated:** 2026-11-11 23:17:11 UTC
+**Last updated:** 2026-11-12 05:40:38 UTC
